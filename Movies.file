@@ -1,0 +1,1 @@
+CREAT TABLE Movies(mov_title,act_name,actress_name,mov_year,dir_name);
